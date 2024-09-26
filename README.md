@@ -1,9 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yxplus1116&show_icons=true&icon_color=805AD5&bg_color=ffffff&count_private=true" />
 
-### 😁Hi,👋
->I can be reached below.
-
-🔗 https://hyrdec.love<br />
+### 😁Hi.
 
 <!--
 **yxplus1116/yxplus1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
